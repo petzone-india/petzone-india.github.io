@@ -26,6 +26,11 @@ body {
   body .navbar {
     text-align: center;
     font-size: 16px; }
+    body .navbar li > a {
+      padding-left: 30px;
+      padding-right: 30px; }
+    body .navbar .navbar-nav {
+      padding-left: 35px; }
   body .carousel-inner {
     display: flex;
     align-items: center;
