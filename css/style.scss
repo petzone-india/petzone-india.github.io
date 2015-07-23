@@ -1,0 +1,58 @@
+$main-blue: #3060A7;
+$main-yellow: #FFEC94;
+
+body {
+
+    font-family: 'Raleway', sans-serif;
+
+    .header-banner {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: flex-stretch;
+
+        background: $main-blue;
+
+        img {
+            width: 250px;
+            margin: 20px 0;
+        }
+
+        .header-right {
+            display: flex;
+            flex-direction: column;
+
+            margin-top: 25px;
+            color: white;
+
+            h3 {
+                margin-top: 0;
+                padding-left: 10px;
+                font-style: italic;
+                font-size: 20px;
+            }
+
+            h1 {
+                color: $main-yellow;
+               # border-bottom: 1px dashed white;
+               # border-top: 1px dashed white;
+                padding: 10px;
+            }
+
+        }
+    }
+
+    .navbar {
+        text-align: center;
+        font-size: 16px;
+    }
+
+    .carousel-inner {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: black;
+        img {
+            max-height: 400px;
+        }
+    }
+}
