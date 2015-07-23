@@ -31,12 +31,28 @@ body {
       padding-right: 30px; }
     body .navbar .navbar-nav {
       padding-left: 35px; }
-  body .carousel-inner {
+  body .carousel {
     display: flex;
     align-items: center;
-    justify-content: center;
-    background: black; }
-    body .carousel-inner img {
-      max-height: 400px; }
+    justify-content: center; }
+    body .carousel .carousel-inner {
+      width: auto;
+      margin: 10px 20px; }
+      body .carousel .carousel-inner img {
+        max-height: 400px; }
+    body .carousel .carousel-arrow {
+      width: 64px; }
+    body .carousel .carousel-left {
+      -ms-transform: rotate(270deg);
+      /* IE 9 */
+      -webkit-transform: rotate(270deg);
+      /* Chrome, Safari, Opera */
+      transform: rotate(270deg); }
+    body .carousel .carousel-right {
+      -ms-transform: rotate(90deg);
+      /* IE 9 */
+      -webkit-transform: rotate(90deg);
+      /* Chrome, Safari, Opera */
+      transform: rotate(90deg); }
 
 /*# sourceMappingURL=style.css.map */
