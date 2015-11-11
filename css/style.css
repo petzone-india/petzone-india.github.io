@@ -150,7 +150,8 @@ body {
       max-width: 30%;
       float: left; }
       body section.cases div.case .case-img.video {
-        width: 30%; }
+        width: 30%;
+        margin-top: 10px; }
     body section.cases div.case .case-txt {
       width: 70%;
       float: left; }
