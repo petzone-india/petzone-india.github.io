@@ -15,7 +15,7 @@ body {
         body header h1 {
           display: none; } }
     body header h3 {
-      font-size: 18px;
+      font-size: 16px;
       color: #CCC;
       font-style: italic;
       margin-top: 10px; }
@@ -24,9 +24,9 @@ body {
           font-size: 15px;
           text-align: center; } }
     body header h4 {
-      font-size: 18px;
+      font-size: 16px;
       margin-top: 30px;
-      color: white; }
+      color: #EEE; }
       @media screen and (max-width: 767px) {
         body header h4 {
           margin-top: 20px;
