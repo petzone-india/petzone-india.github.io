@@ -171,6 +171,9 @@ body {
       .copyright {
         text-align: right;
         margin-right: 10px;
+        @media screen and (max-width: 767px) {
+          text-align: center;
+        }
       }
 
       ul {
@@ -256,6 +259,27 @@ body {
             }
           }
         }
+      }
+    }
+
+    //Contact
+    .contact {
+      margin-top: 20px;
+
+      ul {
+        margin-top: 20px;
+        list-style-type: none;
+        padding-left: 0;
+        .flabel {
+          font-weight: bold;
+        }
+        li {
+          margin-bottom: 15px;
+        }
+      }
+      section .map iframe {
+        max-width: 100%;
+        max-height: 300px;
       }
 
     }

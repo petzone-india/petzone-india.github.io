@@ -124,6 +124,9 @@ body {
     body footer .copyright {
       text-align: right;
       margin-right: 10px; }
+      @media screen and (max-width: 767px) {
+        body footer .copyright {
+          text-align: center; } }
     body footer ul {
       list-style-type: none;
       text-align: center;
@@ -177,5 +180,18 @@ body {
       body section.cases div.case:nth-child(even) .case-img, body section.cases div.case:nth-child(even) .case-text {
         float: none;
         padding: 0; } }
+  body .contact {
+    margin-top: 20px; }
+    body .contact ul {
+      margin-top: 20px;
+      list-style-type: none;
+      padding-left: 0; }
+      body .contact ul .flabel {
+        font-weight: bold; }
+      body .contact ul li {
+        margin-bottom: 15px; }
+    body .contact section .map iframe {
+      max-width: 100%;
+      max-height: 300px; }
 
 /*# sourceMappingURL=style.css.map */
