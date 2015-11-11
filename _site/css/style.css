@@ -1,7 +1,7 @@
 body {
   font-family: 'Raleway', sans-serif; }
   body header {
-    background-color: #3060A7;
+    background-color: #234999;
     padding: 10px 0px; }
     body header h1 {
       color: #FFEC94;
@@ -51,7 +51,7 @@ body {
           padding-top: 5px;
           border-radius: 50%;
           text-align: center;
-          background: #4178c9;
+          background: #2c5dc3;
           margin-right: 5px; }
         body header #share-buttons a .fa.fa-envelope-o {
           background: #e6474f;
