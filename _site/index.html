@@ -8,7 +8,7 @@
 
   <link href="css/bootstrap.css" rel="stylesheet">
   <link href="css/bootstrap-responsive.css" rel="stylesheet">
-  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="css/font-awesome/css/font-awesome.min.css">
 
   <!-- FONTS -->
   <link href='http://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
@@ -23,14 +23,38 @@
 </head>
 
 <body>
-  <div class="header-banner">
-    <img src="images/petzone_logo_small.png" alt="Petzone Logo" />
-    <div class="header-right">
-      <h1>PetZone Veterinary Clinic</h1>
-      <h3> A well equipped veterinary clinic in Mumbai offering all round sevices for your pet </h3>
-      <!-- TODO: Should have location Info! -->
+
+  <header>
+    <div class="container-fluid">
+      <div class="col-sm-2 col-xs-12">
+        <img src="images/petzone_logo_small.png" class="img-responsive" alt="Petzone Logo">
+      </div>
+      <div class="col-sm-7 col-xs-12">
+        <h1>PetZone Veterinary Clinic</h1>
+        <h3>We care for our patients and the humans who love them.</h3>
+        <h4> <i class="fa fa-medkit"></i> &nbsp;Full service clinics providing specialized veterinary care in Mumbai and Goa.</h4>
+      </div>
+      <div class="col-sm-3" col-xs-12>
+        <div id="share-buttons">
+          <a href="https://www.facebook.com/petzonemumbai/" alt="PetZone Facebook Page" title="PetZone Facebook Page">
+            <i class="fa fa-facebook"></i> Facebook
+          </a>
+
+          <a href="mailto:petzone.churchgate@gmail.com" alt="PetZone Churchgate Email" title="PetZone Churchgate Email">
+            <i class="fa fa-envelope-o"></i> Churchgate
+          </a>
+
+          <a href="mailto:petzone.mahalaxmi@gmail.com" alt="PetZone Mahalaxmi Email" title="PetZone Mahalaxmi Email">
+            <i class="fa fa-envelope-o"></i> Mahalaxmi
+          </a>
+
+          <a href="mailto:petzone.goa@gmail.com" alt="Petzone Goa Email" title="Petzone Goa Email">
+            <i class="fa fa-envelope-o"></i> Goa
+          </a>
+        </div>
+      </div>
     </div>
-  </div>
+  </header>
 
   <nav class="navbar navbar-default">
     <div class="container-fluid">
@@ -55,9 +79,7 @@
   </nav>
 
 
-
-
-<div class="carousel">
+<!-- <div class="carousel">
     <i class="fa fa-paw carousel-arrow carousel-left"></i>
 
     <div class="carousel-inner">
@@ -66,6 +88,54 @@
 
     <i class="fa fa-paw carousel-arrow carousel-right"></i>
 
+</div> -->
+
+<div class="entry-content container">
+  <h1 style="text-align: center;">Who We Are</h1>
+  <p>
+    PetZone Veterinary Clinics provide pets with the best possible medical service and treatment any pet parent could wish for.
+    PetZones are located in both Mumbai and Goa. First established in 2001 in Churchgate, PetZone has since grown to open new clinics in Mahalaxmi in 2011 and Goa in 2015.
+    We are a group of highly trained and dedicated individuals able to provide your pets with excellent care and specialised service. You can find out more about our full story <a href="about" title="About Us">here.</a>
+  </p>
+</div>
+
+<div class="container imagecollage">
+  <div class="col-xs-4 col-md-2">
+    <img src="images/frontpage/2.jpeg" alt="animal" class="img-responsive" width="300" height="300"/>
+  </div>
+  <div class="col-xs-4 col-md-2">
+    <img src="images/frontpage/3.jpeg" alt="animal" class="img-responsive" width="300" height="300"/>
+  </div>
+  <div class="col-xs-4 col-md-2">
+    <img src="images/frontpage/4.jpeg" alt="animal" class="img-responsive" width="300" height="300"/>
+  </div>
+  <div class="col-xs-4 col-md-2">
+    <img src="images/frontpage/5.jpeg" alt="animal" class="img-responsive" width="300" height="300"/>
+  </div>
+  <div class="col-xs-4 col-md-2">
+    <img src="images/frontpage/6.jpeg" alt="animal" class="img-responsive" width="300" height="300"/>
+  </div>
+  <div class="col-xs-4 col-md-2">
+    <img src="images/frontpage/7.jpeg" alt="animal" class="img-responsive" width="300" height="300"/>
+  </div>
+  <div class="col-xs-4 col-md-2">
+    <img src="images/frontpage/8.jpeg" alt="animal" class="img-responsive" width="300" height="300"/>
+  </div>
+  <div class="col-xs-4 col-md-2">
+    <img src="images/frontpage/9.jpeg" alt="animal" class="img-responsive" width="300" height="300"/>
+  </div>
+  <div class="col-xs-4 col-md-2">
+    <img src="images/frontpage/10.jpeg" alt="animal" class="img-responsive" width="300" height="300"/>
+  </div>
+  <div class="col-xs-4 col-md-2">
+    <img src="images/frontpage/11.jpeg" alt="animal" class="img-responsive" width="300" height="300"/>
+  </div>
+  <div class="col-xs-4 col-md-2">
+    <img src="images/frontpage/12.jpeg" alt="animal" class="img-responsive" width="300" height="300"/>
+  </div>
+  <div class="col-xs-4 col-md-2">
+    <img src="images/frontpage/13.jpeg" alt="animal" class="img-responsive" width="300" height="300"/>
+  </div>
 </div>
 
 <script>
@@ -79,8 +149,10 @@
 
 </script>
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script> -->
+<script src="js/jquery-1.11.3.min.js"></script>
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="js/bootstrap.min.js"></script>
 </body>
 </html>
+

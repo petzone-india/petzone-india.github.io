@@ -5,52 +5,101 @@ body {
 
     font-family: 'Raleway', sans-serif;
 
-    .header-banner {
-        display: flex;
-        flex-wrap: wrap;
-        align-items: flex-stretch;
-
-        background: $main-blue;
-
-        img {
-            width: 250px;
-            margin: 20px 0;
+    header {
+      background-color: $main-blue;
+      padding: 10px 0px;
+      h1 {
+        color: $main-yellow;
+        font-size: 30px;
+        @media screen and (max-width: 767px) {
+          display: none;
         }
-
-        .header-right {
-            display: flex;
-            flex-direction: column;
-
-            margin-top: 25px;
-            color: white;
-
-            h3 {
-                margin-top: 0;
-                padding-left: 10px;
-                font-style: italic;
-                font-size: 20px;
-            }
-
-            h1 {
-                color: $main-yellow;
-               # border-bottom: 1px dashed white;
-               # border-top: 1px dashed white;
-                padding: 10px;
-            }
-
+      }
+      h3 {
+        font-size: 18px;
+        color: #CCC;
+        font-style: italic;
+        margin-top: 10px;
+        @media screen and (max-width: 767px) {
+          font-size: 15px;
+          text-align: center;
         }
+      }
+
+      h4 {
+        font-size: 18px;
+        margin-top: 30px;
+        color: white;
+        @media screen and (max-width: 767px) {
+          margin-top: 20px;
+          text-align: center;
+          .fa {
+              display: none;
+          }
+        }
+      }
+
+      #share-buttons {
+        float: right;
+        margin-top: 10px;
+        @media screen and (max-width: 767px) {
+          display: none;
+        }
+        a {
+          vertical-align: middle;
+          display: block;
+          color: white;
+          text-decoration: none;
+          &:hover {
+            text-decoration: none;
+          }
+          .fa {
+            width: 30px;
+            height: 30px;
+            border: 2px solid white;
+            vertical-align: middle;
+            margin-top: 5px;
+            margin-bottom: 5px;
+            padding-top: 5px;
+            border-radius: 50%;
+            text-align: center;
+            background: lighten($main-blue, 10%);
+            margin-right: 5px;
+          }
+          .fa.fa-envelope-o {
+            background: #e6474f;
+            font-weight: bold;
+          }
+        }
+      }
+
+      img {
+        @media screen and (max-width: 767px) {
+          margin: 0 auto;
+        }
+      }
     }
 
     .navbar {
         text-align: center;
-        font-size: 16px;
+        font-size: 14px;
+        margin-bottom: 0;
         li > a {
             padding-left: 30px;
             padding-right: 30px;
         }
         .navbar-nav {
             padding-left: 35px;
+            @media screen and (max-width: 767px) {
+              padding-left: 0;
+            }
         }
+    }
+
+    .imagecollage {
+      .col-md-2 {
+        padding: 0;
+      }
     }
 
     .carousel {
@@ -83,5 +132,11 @@ body {
         }
     }
 
+    .entry-content {
+      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+      line-height: 1.5em;
+      font-size: 15px;
+      margin-bottom: 10px;
+    }
 
 }

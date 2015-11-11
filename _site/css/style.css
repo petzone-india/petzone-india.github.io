@@ -1,36 +1,78 @@
 body {
   font-family: 'Raleway', sans-serif; }
-  body .header-banner {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: flex-stretch;
-    background: #3060A7; }
-    body .header-banner img {
-      width: 250px;
-      margin: 20px 0; }
-    body .header-banner .header-right {
-      display: flex;
-      flex-direction: column;
-      margin-top: 25px;
+  body header {
+    background-color: #3060A7;
+    padding: 10px 0px; }
+    body header h1 {
+      color: #FFEC94;
+      font-size: 30px; }
+      @media screen and (max-width: 767px) {
+        body header h1 {
+          display: none; } }
+    body header h3 {
+      font-size: 18px;
+      color: #CCC;
+      font-style: italic;
+      margin-top: 10px; }
+      @media screen and (max-width: 767px) {
+        body header h3 {
+          font-size: 15px;
+          text-align: center; } }
+    body header h4 {
+      font-size: 18px;
+      margin-top: 30px;
       color: white; }
-      body .header-banner .header-right h3 {
-        margin-top: 0;
-        padding-left: 10px;
-        font-style: italic;
-        font-size: 20px; }
-      body .header-banner .header-right h1 {
-        color: #FFEC94;
-        # border-bottom: 1px dashed white;
-        # border-top: 1px dashed white;
-        padding: 10px; }
+      @media screen and (max-width: 767px) {
+        body header h4 {
+          margin-top: 20px;
+          text-align: center; }
+          body header h4 .fa {
+            display: none; } }
+    body header #share-buttons {
+      float: right;
+      margin-top: 10px; }
+      @media screen and (max-width: 767px) {
+        body header #share-buttons {
+          display: none; } }
+      body header #share-buttons a {
+        vertical-align: middle;
+        display: block;
+        color: white;
+        text-decoration: none; }
+        body header #share-buttons a:hover {
+          text-decoration: none; }
+        body header #share-buttons a .fa {
+          width: 30px;
+          height: 30px;
+          border: 2px solid white;
+          vertical-align: middle;
+          margin-top: 5px;
+          margin-bottom: 5px;
+          padding-top: 5px;
+          border-radius: 50%;
+          text-align: center;
+          background: #4178c9;
+          margin-right: 5px; }
+        body header #share-buttons a .fa.fa-envelope-o {
+          background: #e6474f;
+          font-weight: bold; }
+    @media screen and (max-width: 767px) {
+      body header img {
+        margin: 0 auto; } }
   body .navbar {
     text-align: center;
-    font-size: 16px; }
+    font-size: 14px;
+    margin-bottom: 0; }
     body .navbar li > a {
       padding-left: 30px;
       padding-right: 30px; }
     body .navbar .navbar-nav {
       padding-left: 35px; }
+      @media screen and (max-width: 767px) {
+        body .navbar .navbar-nav {
+          padding-left: 0; } }
+  body .imagecollage .col-md-2 {
+    padding: 0; }
   body .carousel {
     display: flex;
     align-items: center;
@@ -55,5 +97,10 @@ body {
       -webkit-transform: rotate(90deg);
       /* Chrome, Safari, Opera */
       transform: rotate(90deg); }
+  body .entry-content {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    line-height: 1.5em;
+    font-size: 15px;
+    margin-bottom: 10px; }
 
 /*# sourceMappingURL=style.css.map */
