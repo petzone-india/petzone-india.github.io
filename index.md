@@ -1,4 +1,4 @@
 ---
-title: Petzone Home
+title: Petzone | Home
 layout: home
 ---
