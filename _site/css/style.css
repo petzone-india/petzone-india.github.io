@@ -53,10 +53,13 @@ body {
           vertical-align: middle;
           margin-top: 5px;
           margin-bottom: 5px;
-          padding-top: 5px;
+          padding-top: 7px;
+          border-radius: 5px;
           text-align: center;
-          background: #4178c9;
+          background: #366bbb;
           margin-right: 5px; }
+          body header #share-buttons a .fa:hover {
+            background: #3060A7; }
         body header #share-buttons a .fa.fa-envelope-o {
           background: #e6474f;
           font-weight: bold; }

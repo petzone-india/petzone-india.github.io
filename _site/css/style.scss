@@ -70,11 +70,14 @@ body {
             vertical-align: middle;
             margin-top: 5px;
             margin-bottom: 5px;
-            padding-top: 5px;
-            // border-radius: 50%;
+            padding-top: 7px;
+            border-radius: 5px;
             text-align: center;
-            background: lighten($main-blue, 10%);
+            background: lighten($main-blue, 5%);
             margin-right: 5px;
+            &:hover {
+              background: $main-blue;
+            }
           }
           .fa.fa-envelope-o {
             background: #e6474f;
