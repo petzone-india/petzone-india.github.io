@@ -234,6 +234,28 @@ body {
             }
           }
         }
+        @media screen and (max-width: 768px) {
+          .case-txt, .case-img {
+            width: 100%;
+            max-width: 100%;
+            text-align: center;
+            float: none;
+            padding: 0;
+          }
+          .case-img img {
+            margin: 0 auto;
+          }
+          .case-img.video {
+            margin: 0 auto;
+            width: 100%;
+          }
+          &:nth-child(even) {
+            .case-img, .case-text {
+              float: none;
+              padding: 0;
+            }
+          }
+        }
       }
 
     }
