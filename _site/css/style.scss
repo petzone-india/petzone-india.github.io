@@ -4,6 +4,15 @@ $main-yellow: #FFEC94;
 body {
 
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+    .centered {
+      text-align: center;
+    }
+
+    .bolded {
+      font-weight: bold;
+    }
+
     header {
       background-color: $main-blue;
       padding: 10px 0px;
@@ -141,10 +150,29 @@ body {
     }
 
     footer {
-      background: #EEE;
+      background: #CCC;
       padding: 5px;
-      margin-top: 20px;
+      padding-bottom: 10px;
       font-size: 12px;
+
+      a.footerfacebook {
+        margin-top: 10px;
+        text-align: center;
+        display: block;
+        color: black;
+        .fa {
+          background: $main-blue;
+          padding: 5px;
+          margin-right: 5px;
+          color: white;
+        }
+      }
+
+      .copyright {
+        text-align: right;
+        margin-right: 10px;
+      }
+
       ul {
         list-style-type: none;
         text-align: center;
@@ -162,6 +190,52 @@ body {
       h4 {
         font-size: 15px;
       }
+    }
+
+    section {
+      padding: 10px;
+    }
+
+    //about
+    .warning {
+      text-transform: uppercase;
+    }
+
+    section.cases {
+      div.case {
+        background: #EEE;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        border-radius: 5px;
+        margin-bottom: 10px;
+        .case-img {
+          max-width: 30%;
+          float: left;
+          &.video {
+            width: 30%;
+            margin-top: 10px;
+          }
+        }
+        .case-txt {
+          div {
+            padding-left: 10px;
+          }
+          width: 70%;
+          float: left;
+        }
+        &:nth-child(even) {
+          .case-img {
+            float: right;
+          }
+          .case-txt {
+            div {
+              padding-left: 0;
+              padding-right: 10px;
+            }
+          }
+        }
+      }
+
     }
 
 }
