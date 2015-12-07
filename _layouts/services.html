@@ -5,20 +5,26 @@
     <div class="entry-content">
       <h1>Services</h1>
       
+			{% for serv in page.services %}
+
 			<div class="row case">
 	      <div class="container">
 	        <div class="service-img">
-	          <img src="/images/services/medical_treatment.jpg" class="img-responsive" alt="Medical Treatment" height="200px"/>
+	          <img src="{{ serv.img }}" class="img-responsive" alt="Medical Treatment" height="200px"/>
 	        </div>
 	        <div class="service-txt">
 	          <div>
-	            <h3>Medical treatment & advice</h3>
-	            <p>We at PetZone understand that a pet is like a beloved family member. Our skilled veterinarians are able to determine the cause of an illness effectively and efficiently, not only to help your pet but also to put your mind at ease.</p>
-	            <a href="/services-medical.html" alt="Learn More" title="Learn More">Learn More &#187;</a>
+	            <h3>{{ serv.service }}</h3>
+	            <p>{{ serv.text }}</p>
+	            <a href="{{serv.learn-more-slug}}" alt="Learn More" title="Learn More">Learn More &#187;</a>
 	          </div>
 	        </div>
 	      </div>
 	    </div>
+
+	    <hr />
+
+	    {% endfor %}
 
     </div>
   </div>
