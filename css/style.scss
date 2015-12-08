@@ -268,12 +268,16 @@ body {
 
     //Team
     section.team {
-      h3, h5 {
+      h2, h3, h5 {
         text-align: center;
       }
 
       .team-member.vet:nth-child(3n+1) {
           clear: left;
+      }
+
+      .team-member-txt {
+        padding-bottom: 10px;
       }
 
 
