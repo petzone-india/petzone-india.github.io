@@ -301,13 +301,13 @@ body section.services .service-img img {
   float: left;
 }
 
-body section.services .service-text {
+body section.services .service-txt {
   width: 70%;
   float: left;
 }
 
-body section.services .service-text .div {
-  padding-left: 10px;
+body section.services .service-txt div {
+  margin-left: 15px;
 }
 
 body .contact {

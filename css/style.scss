@@ -275,9 +275,12 @@ body {
         }
       }
 
-      .service-text {
+      .service-txt {
         width: 70%;
         float: left;
+        div {
+          margin-left: 15px;
+        }
       }
     }
 
