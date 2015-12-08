@@ -7,7 +7,7 @@ vets:
     name: "Dr. Leena Dalal"
     degree: "BVSc&AH, MVSc (Surgery)"
     bio: "Dr Leena has extensive experience in Veterinary medicine and Surgery over 30 years. She has trained in surgery, imaging and various aspects of General medicine both in India and internationally, and continues to regularly update her knowledge and training.She travels between all the Petzone clinics, reviews all the non-routine cases and is always available to give advice."
-    img: "/images/team/"
+    img: "/images/team/leena.jpg"
   -
     name: "Dr. Deep Vasudeo"
     degree: "BVSc&AH"
