@@ -10,7 +10,7 @@ services:
   - 
     service: "Senior Pet Wellness and Care"
     text: "As you may expect, when pets age, they need special care and attention. At PetZone, we provide important geriatric care for dogs and cats. If your pet is getting on in years, we can help him or her enjoy a better quality of life through geriatric care procedures designed specifically to address the needs of older pets. Our veterinarians have the compassion, skills, experience and desire necessary to provide for all of your older pet's needs."
-    img: "/images/services/medical_treatment.jpg"
+    img: "/images/services/senior-dog.jpeg"
     learn-more-slug: "/services-senior-pet"
   - 
     service: "Dentistry"
