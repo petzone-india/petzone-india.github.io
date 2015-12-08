@@ -266,6 +266,21 @@ body {
       }
     }
 
+    //Services
+    section.services {
+      .service-img {
+        img {
+          width: 30%;
+          float: left;
+        }
+      }
+
+      .service-text {
+        width: 70%;
+        float: left;
+      }
+    }
+
     //Contact
     .contact {
       margin-top: 20px;
