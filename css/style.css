@@ -296,10 +296,6 @@ body section.cases div.case:nth-child(even) .case-txt div {
   }
 }
 
-body section.team {
-  text-align: center;
-}
-
 body section.team h2, body section.team h3, body section.team h5 {
   text-align: center;
 }
@@ -320,6 +316,10 @@ body section.team .team-member-img div {
   height: 200px;
   border-radius: 50%;
   overflow: hidden;
+}
+
+body section.team .team-member-txt {
+  text-align: center;
 }
 
 body section.services .service-img img {

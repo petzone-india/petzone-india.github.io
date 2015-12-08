@@ -268,7 +268,6 @@ body {
 
     //Team
     section.team {
-      text-align: center;
       h2, h3, h5 {
         text-align: center;
       }
@@ -287,6 +286,10 @@ body {
           border-radius: 50%;
           overflow: hidden
         }
+      }
+
+      .team-member-txt {
+        text-align: center;
       }
     }
 
