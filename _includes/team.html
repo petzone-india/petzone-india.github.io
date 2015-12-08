@@ -9,25 +9,27 @@
 	      	<br />
 
 			   {% for vet in page.vets %}
+			   <div class="container">
 
-				<div class="team-member vet col-md-4">
-			        <div class="team-member-img">
-			        	<div>
-			          		<img src={{ vet.img }} class="img-responsive" alt="" />
-			          	</div>
-			        </div>
-			        <div class="team-member-txt">
-			          <div>
-			            <h3>{{ vet.name }}</h3>
-			            <h5>{{ vet.degree }}</h5>
-			            <p>{{ vet.bio }}</p>
-			          </div>
-			        </div>
-			      
-			    </div>
+					<div class="team-member vet col-md-4">
+				        <div class="team-member-img">
+				        	<div>
+				          		<img src={{ vet.img }} class="img-responsive" alt="" />
+				          	</div>
+				        </div>
+				        <div class="team-member-txt">
+				          <div>
+				            <h3>{{ vet.name }}</h3>
+				            <h5>{{ vet.degree }}</h5>
+				            <p>{{ vet.bio }}</p>
+				          </div>
+				        </div>
+				      
+				    </div>
 
 
-			{% endfor %}
+				{% endfor %}
+			</div>
 		</div>
 
 		<div class="support">
@@ -35,7 +37,7 @@
 			<h2> Support Staff </h2>
 			<p>The number one goal of our Support staff is to care for you and your pets like family members. You will see them at one of four stations; 1.) the front desk, where they will welcome you and ascertain that your needs and your pet's needs are met, 2.) the telephone station, where they answer all your telephone calls, understanding the vital information necessary for our veterinarians and act as their liaison,  3.) the pharmacy, where our challenging training program demands that they learn the names and uses of over 500 medications, along with our computer software designed for the veterinary clinic, and 4.) Assisting the veterinarians with the treatment of your pets. Our Support staff work both in front and behind the scenes to assure you  will get excellent service.</p>
 
-			
+
 		</div>
 
     </div>
