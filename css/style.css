@@ -310,6 +310,15 @@ body section.services .service-txt div {
   margin-left: 15px;
 }
 
+body section.services .service:nth-child(odd) .service-img img {
+  float: right;
+}
+
+body section.services .service:nth-child(odd) .service-txt div {
+  margin-left: 0;
+  margin-right: 15px;
+}
+
 body .contact {
   margin-top: 20px;
 }

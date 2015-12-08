@@ -282,6 +282,21 @@ body {
           margin-left: 15px;
         }
       }
+
+      .service:nth-child(odd) {
+        .service-img {
+          img {
+            float: right;
+          }
+        }
+
+        .service-txt {
+          div {
+            margin-left: 0;
+            margin-right: 15px;
+          }
+        }
+      }
     }
 
     //Contact
