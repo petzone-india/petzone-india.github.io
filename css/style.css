@@ -296,6 +296,10 @@ body section.cases div.case:nth-child(even) .case-txt div {
   }
 }
 
+body section.team {
+  text-align: center;
+}
+
 body section.team h2, body section.team h3, body section.team h5 {
   text-align: center;
 }
