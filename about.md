@@ -45,4 +45,29 @@ vets:
     img: "/images/team/pethe.jpeg"
 
 
+support-front-office:
+  - 
+    name: "Vinod Bhopi"
+    img: "/images/team/vinod.JPG"
+  - 
+    name: "Crysel Garg"
+    img: "/images/team/crysel.jpg"
+  - 
+    name: "Parvin Catinwalla"
+    img: "/images/team/cateen.JPG"
+  - 
+    name: "Rajeev Pawar"
+    img: "/images/team/avatar.png"
+
+support-assistants:
+  - 
+    name: "Sachin"
+    img: "/images/team/sachin.JPG"
+  - 
+    name: "Sumeet Gaekwad"
+    img: "/images/team/avatar.png"
+  - 
+    name: "Susheel Kumar"
+    img: "/images/team/avatar.png"
+
 ---
