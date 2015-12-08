@@ -54,7 +54,7 @@ support-front-office:
     img: "/images/team/crysel.jpg"
   - 
     name: "Parvin Catinwalla"
-    img: "/images/team/cateen.JPG"
+    img: "/images/team/canteen.JPG"
   - 
     name: "Rajeev Pawar"
     img: "/images/team/avatar.png"
