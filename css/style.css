@@ -304,12 +304,18 @@ body section.team .team-member-img {
   width: 200px;
   height: 200px;
   margin: 0 auto;
-  border: 50%;
 }
 
 body section.team .team-member-img img {
   width: 200px;
   height: auto;
+}
+
+body section.team .team-member-img div {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  overflow: hidden;
 }
 
 body section.services .service-img img {
