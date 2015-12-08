@@ -11,7 +11,7 @@ services:
     service: "Senior Pet Wellness and Care"
     text: "As you may expect, when pets age, they need special care and attention. At PetZone, we provide important geriatric care for dogs and cats. If your pet is getting on in years, we can help him or her enjoy a better quality of life through geriatric care procedures designed specifically to address the needs of older pets. Our veterinarians have the compassion, skills, experience and desire necessary to provide for all of your older pet's needs."
     img: "/images/services/medical_treatment.jpg"
-    learn-more-slug: "/services-senior-pet.jpg"
+    learn-more-slug: "/services-senior-pet"
   - 
     service: "Dentistry"
     text: "Since few pets allow brushing at home, regular professional care is important to avoid tartar build up, gum disease and infection, which can spread bacteria throughout the body to organ such as the liver, heart and kidneys with potentially dangerous results. We can help your pet avoid the pain and dangers of dental disease with ultrasonic cleaning and treatments as needed."
