@@ -306,6 +306,10 @@ body section.services .service-text {
   float: left;
 }
 
+body section.services .service-text .div {
+  padding-left: 10px;
+}
+
 body .contact {
   margin-top: 20px;
 }
