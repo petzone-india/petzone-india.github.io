@@ -266,6 +266,24 @@ body {
       }
     }
 
+    //Team
+    section.team {
+      h2, h3, h5 {
+        text-align: center;
+      }
+
+      .team-member-img {
+        img {
+          width: 200px;
+          height: auto;
+        }
+        width: 200px;
+        height: 200px;
+        margin: 0 auto;
+        border: 50%;
+      }
+    }
+
     //Services
     section.services {
       .service-img {
