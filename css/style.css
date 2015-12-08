@@ -326,6 +326,10 @@ body section.team .team-member-img div {
   overflow: hidden;
 }
 
+body section.team .support h3 {
+  margin-bottom: 10px;
+}
+
 body section.services .service-img img {
   width: 30%;
   float: left;
