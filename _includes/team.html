@@ -47,7 +47,25 @@
 			          	</div>
 			        </div>
 			        <div class="team-member-txt">
-			        	<h3>{{ staff.name }}</h3>
+			        	<h5>{{ staff.name }}</h5>
+
+			        </div>
+			    </div>
+
+			{% endfor %}
+
+
+			<h3>Assistants</h3>
+
+			{% for staff in page.support-assistants %}
+				<div class="team-member col-md-4">
+			        <div class="team-member-img">
+			        	<div>
+			          		<img src={{ staff.img }} class="img-responsive" alt="" />
+			          	</div>
+			        </div>
+			        <div class="team-member-txt">
+			        	<h5>{{ staff.name }}</h5>
 
 			        </div>
 			    </div>
