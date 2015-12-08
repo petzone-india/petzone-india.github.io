@@ -16,7 +16,9 @@
 	          <div>
 	            <h3>{{ serv.service }}</h3>
 	            <p>{{ serv.text }}</p>
-	            <a href="{{serv.learn-more-slug}}" alt="Learn More" title="Learn More">Learn More &#187;</a>
+	            {% if serv.learn-more-slug != "" %}
+	            	<a href="{{serv.learn-more-slug}}" alt="Learn More" title="Learn More">Learn More &#187;</a>
+	            {% endif %}
 	          </div>
 	        </div>
 	      </div>

@@ -61,5 +61,5 @@ services:
     service: "Medicine Dispensing Services"
     text: "We provide most of the medicines we prescribe so that pet parents have easy and convenient access to their pet’s medication. You can also request email reminders about when to give your pet’s medication and we routinely provide email reminders for vaccinations and worming medications."
     img: "/images/services/medical.jpg"
-    learn-more-slug: "/services-medical-dispensing"
+    learn-more-slug: ""
 ---
