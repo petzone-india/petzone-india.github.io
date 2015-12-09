@@ -35,6 +35,26 @@
 
 		<hr />
 
+		<div class="therapist">
+			<h2> Therapists </h2>
+			<div class="container">
+				{% for staff in page.groomers %}
+					<div class="team-member col-sm-3">
+				        <div class="team-member-img">
+				        	<div>
+				          		<img src={{ staff.img }} class="img-responsive" alt="" />
+				          	</div>
+				        </div>
+				        <div class="team-member-txt">
+				        	<h5>{{ staff.name }}</h5>
+
+				        </div>
+				    </div>
+
+				{% endfor %}
+			</div>
+		</div>
+		<hr />
 
 		<div class="groomers">
 			<h2> Groomers </h2>
@@ -56,6 +76,8 @@
 				{% endfor %}
 			</div>
 		</div>
+
+		<hr />
 
 		<div class="support">
 

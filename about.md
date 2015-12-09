@@ -44,6 +44,10 @@ vets:
     bio: "Dr Pradnya Pethe, a surgeon with many years experience, is on hand to perform surgeries as required. Well versed with soft tissue surgery she very capably handles cases from routine spay/neuters to more complicated abdominal surgeries."
     img: "/images/team/pethe.jpeg"
 
+therapists:
+  -
+    name: "Nita Joshi"
+    img: "/images/team/nita.jpg"
 
 groomers:
   -
