@@ -45,6 +45,21 @@ vets:
     img: "/images/team/pethe.jpeg"
 
 
+groomers:
+  -
+    name: "Behroze Mistry"
+    img: "/images/team/behroze.JPG"
+  -
+    name: "Shikha Meher"
+    img: "/images/team/shikha.jpg"
+  -
+    name: "Dilshad Bodhanwalla"
+    img: "/images/team/avatar.png"
+  -
+    name: "Gayatri Madhavan"
+    img: "/images/team/gayatri.jpg"
+
+
 support-front-office:
   - 
     name: "Vinod Bhopi"
