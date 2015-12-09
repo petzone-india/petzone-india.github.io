@@ -276,6 +276,10 @@ body {
           clear: left;
       }
 
+      .team-member:not(.vet):nth-child(4n+1) {
+        clear: left;
+      }
+
       .team-member-txt {
         padding-bottom: 10px;
       }
