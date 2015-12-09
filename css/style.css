@@ -300,7 +300,11 @@ body section.team h2, body section.team h3, body section.team h5 {
   text-align: center;
 }
 
-body section.team .team-member:nth-child(3n+1) {
+body section.team .team-member.vet:nth-child(3n+1) {
+  clear: left;
+}
+
+body section.team .team-member:not(.vet):nth-child(4n+1) {
   clear: left;
 }
 
