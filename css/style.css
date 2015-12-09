@@ -18,7 +18,7 @@ body header {
 
 body header h1 {
   color: #FFEC94;
-  font-size: 30px;
+  font-size: 40px;
 }
 
 @media screen and (max-width: 767px) {
@@ -31,6 +31,7 @@ body header h3 {
   font-size: 16px;
   color: #CCC;
   font-style: italic;
+  font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
   margin-top: 10px;
 }
 
@@ -43,6 +44,7 @@ body header h3 {
 
 body header h4 {
   font-size: 16px;
+  font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
   margin-top: 30px;
   color: #EEE;
 }
