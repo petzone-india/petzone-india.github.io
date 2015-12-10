@@ -366,7 +366,11 @@ body section.service img {
 }
 
 body section.service .entry-content > h1 {
-  margin-bottom: 20px;
+  margin-bottom: 0px;
+}
+
+body section.service .inline-nav-services {
+  margin-bottom: 10px;
 }
 
 body .contact {
