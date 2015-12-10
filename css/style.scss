@@ -323,6 +323,9 @@ body {
       }
 
       .service-txt {
+        h3 {
+          color: $main-blue;
+        }
         width: 70%;
         float: left;
         div {
@@ -338,9 +341,6 @@ body {
         }
 
         .service-txt {
-          h3 {
-           color: $main-blue;
-          }
           div {
             margin-left: 0;
             margin-right: 15px;
