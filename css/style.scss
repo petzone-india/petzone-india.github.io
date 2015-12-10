@@ -338,6 +338,9 @@ body {
         }
 
         .service-txt {
+          h3 {
+           color: $main-blue;
+          }
           div {
             margin-left: 0;
             margin-right: 15px;

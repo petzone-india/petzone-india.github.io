@@ -354,6 +354,10 @@ body section.services .service:nth-child(odd) .service-img img {
   float: right;
 }
 
+body section.services .service:nth-child(odd) .service-txt h3 {
+  color: #3060A7;
+}
+
 body section.services .service:nth-child(odd) .service-txt div {
   margin-left: 0;
   margin-right: 15px;
