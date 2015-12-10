@@ -359,6 +359,16 @@ body section.services .service:nth-child(odd) .service-txt div {
   margin-right: 15px;
 }
 
+body section.service img {
+  float: left;
+  margin-right: 10px;
+  border: 1px solid black;
+}
+
+body section.service .entry-content > h1 {
+  margin-bottom: 20px;
+}
+
 body .contact {
   margin-top: 20px;
 }
