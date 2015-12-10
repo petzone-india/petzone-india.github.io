@@ -296,13 +296,13 @@ body section.cases div.case:nth-child(even) .case-txt div {
   }
 }
 
-body section.service img {
+body .service img {
   float: left;
   margin-right: 10px;
   border: 1px solid black;
 }
 
-body section.service .entry-content > h1 {
+body .service .entry-content > h1 {
   margin-bottom: 20px;
 }
 
