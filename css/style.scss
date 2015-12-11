@@ -274,6 +274,10 @@ body {
         text-align: center;
       }
 
+      h3 {
+        color: $main-blue;
+      }
+
       .team-member.vet:nth-child(3n+1) {
           clear: left;
       }
@@ -284,6 +288,7 @@ body {
 
       .team-member-txt {
         padding-bottom: 10px;
+        text-align: center;
       }
 
 
