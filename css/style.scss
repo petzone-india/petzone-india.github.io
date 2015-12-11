@@ -319,6 +319,11 @@ body {
         img {
           width: 30%;
           float: left;
+          @media screen and (max-width: 768px) {
+            width: 70%;
+            float: none;
+            margin: 0 auto;
+          }
         }
       }
 
@@ -331,6 +336,15 @@ body {
         div {
           margin-left: 15px;
         }
+
+        @media screen and (max-width: 768px) {
+          width: 100%;
+          text-align: center;
+          float: none;
+          div {
+            margin-left: 0;
+          }
+        }
       }
 
       .service:nth-child(odd) {
@@ -338,12 +352,20 @@ body {
           img {
             float: right;
           }
+          @media screen and (max-width: 768px) {
+            img {
+              float: none;
+            }
+          }
         }
 
         .service-txt {
           div {
             margin-left: 0;
             margin-right: 15px;
+            @media screen and (max-width: 768px) {
+              margin-right: 0;
+            }
           }
         }
       }
