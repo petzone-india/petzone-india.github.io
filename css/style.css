@@ -363,6 +363,10 @@ body section.services .service:nth-child(odd) .service-txt div {
   margin-right: 15px;
 }
 
+body section.service {
+  margin-bottom: 20px;
+}
+
 body section.service img {
   float: left;
   margin-right: 10px;
