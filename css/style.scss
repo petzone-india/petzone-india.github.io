@@ -354,10 +354,19 @@ body {
         float: left;
         margin-right: 10px;
         border: 1px solid black;
+        margin-bottom: 10px;
+        @media screen and (max-width: 480px) {
+          float: none;
+          margin: 0 auto;
+          margin-bottom: 10px;
+        }
       }
 
       .entry-content > h1 {
         margin-bottom: 0px;
+        @media screen and (max-width: 480px) {
+          font-size: 20px;
+        }
       }
 
       .inline-nav-services {
