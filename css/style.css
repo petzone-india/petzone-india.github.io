@@ -367,7 +367,6 @@ body section.service img {
   float: left;
   margin-right: 10px;
   border: 1px solid black;
-  margin-bottom: 10px;
 }
 
 @media screen and (max-width: 480px) {
