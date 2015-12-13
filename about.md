@@ -47,6 +47,7 @@ vets:
 therapists:
   -
     name: "Nita Joshi"
+    bio: Nita Joshi is a newly found Canine Behaviourist who recieved a diploma from the British College of Canine studies. She helps owners rehabilitate behaviour issues and helps them find triggers at home and in the environment that is getting their dog to behave in a certain manner. She can help them cope with these issues and turn around the situation. She is also a training hydrotherapist starting her own venture soon.
     img: "/images/team/nita.jpg"
 
 groomers:
@@ -80,13 +81,16 @@ support-front-office:
 
 support-assistants:
   - 
-    name: "Sachin"
+    name: "Sachin Tikone"
     img: "/images/team/sachin.JPG"
   - 
     name: "Sumeet Gaekwad"
     img: "/images/team/avatar.png"
   - 
     name: "Susheel Kumar"
+    img: "/images/team/avatar.png"
+  - 
+    name: "Manas Das"
     img: "/images/team/avatar.png"
 
 ---
