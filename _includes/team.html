@@ -38,7 +38,6 @@
 		<div class="therapist">
 			<h2> Therapists </h2>
 			<div class="container">
-				<p>Nita Joshi is a newly found Canine Behaviourist who recieved a diploma from the British College of Canine studies. She helps owners rehabilitate behaviour issues and helps them find triggers at home and in the environment that is getting their dog to behave in a certain manner. She can help them cope with these issues and turn around the situation. She is also a training hydrotherapist starting her own venture soon.</p>
 				{% for staff in page.therapists %}
 					<div class="team-member col-sm-3">
 				        <div class="team-member-img">
@@ -48,6 +47,7 @@
 				        </div>
 				        <div class="team-member-txt">
 				        	<h3>{{ staff.name }}</h3>
+				        	<P>{{ staff.bio }}</P>
 				        </div>
 				    </div>
 
