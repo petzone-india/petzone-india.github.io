@@ -91,6 +91,6 @@ support-assistants:
     img: "/images/team/avatar.png"
   - 
     name: "Manas Das"
-    img: "/images/team/avatar.png"
+    img: "/images/team/manas.jpg"
 
 ---
