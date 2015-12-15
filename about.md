@@ -92,5 +92,7 @@ support-assistants:
   - 
     name: "Manas Das"
     img: "/images/team/manas.jpg"
+  - name: "Ashok Naik"
+    img: "/images/team/avatar.png"
 
 ---
