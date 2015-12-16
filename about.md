@@ -77,7 +77,7 @@ support-front-office:
     img: "/images/team/canteen.JPG"
   - 
     name: "Rajeev Pawar"
-    img: "/images/team/avatar.png"
+    img: "/images/team/rajeev.jpeg"
 
 support-assistants:
   - 
