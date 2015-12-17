@@ -59,7 +59,7 @@ groomers:
     img: "/images/team/shikha.jpg"
   -
     name: "Dilshad Bodhanwalla"
-    img: "/images/team/avatar.png"
+    img: "/images/team/dilshad.jpeg"
   -
     name: "Gayatri Madhavan"
     img: "/images/team/gayatri.jpg"
