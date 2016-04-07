@@ -17,6 +17,8 @@ body {
       background-color: $main-blue;
       padding: 10px 0px;
       font-family: 'Raleway', sans-serif;
+      background-image: url('../images/background.png');
+      background-size: cover;
 
       h1 {
         color: $main-yellow;

@@ -1,4 +1,4 @@
-$main-blue: #3060A7;
+$main-blue: #2c5ea9;
 $main-yellow: #FFEC94;
 
 body {
@@ -17,10 +17,12 @@ body {
       background-color: $main-blue;
       padding: 10px 0px;
       font-family: 'Raleway', sans-serif;
+      background-image: url('../images/background.png');
+      background-size: cover;
 
       h1 {
         color: $main-yellow;
-        font-size: 30px;
+        font-size: 40px;
         @media screen and (max-width: 767px) {
           display: none;
         }
@@ -29,6 +31,7 @@ body {
         font-size: 16px;
         color: #CCC;
         font-style: italic;
+        font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
         margin-top: 10px;
         @media screen and (max-width: 767px) {
           font-size: 15px;
@@ -38,6 +41,7 @@ body {
 
       h4 {
         font-size: 16px;
+        font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
         margin-top: 30px;
         color: #EEE;
         @media screen and (max-width: 767px) {
@@ -266,16 +270,136 @@ body {
       }
     }
 
-    // Services
+    //Team
+    section.team {
+      h2, h3, h5 {
+        text-align: center;
+      }
+
+      h3 {
+        color: $main-blue;
+      }
+
+      .team-member.vet:nth-child(3n+1) {
+          clear: left;
+      }
+
+      .team-member:not(.vet):nth-child(4n+1) {
+        clear: left;
+      }
+
+      .team-member-txt {
+        padding-bottom: 10px;
+        text-align: center;
+      }
+
+
+      .team-member-img {
+        img {
+          width: 200px;
+          height: auto;
+        }
+        width: 200px;
+        height: 200px;
+        margin: 0 auto;
+        div {
+          width: 200px;
+          height: 200px;
+          border-radius: 50%;
+          overflow: hidden
+        }
+      }
+
+      .support {
+        h3 {
+          margin-bottom: 25px;
+        }
+      }
+
+    }
+
+
+
+    //Services
+    section.services {
+      .service-img {
+        img {
+          width: 30%;
+          float: left;
+          @media screen and (max-width: 768px) {
+            width: 70%;
+            float: none;
+            margin: 0 auto;
+          }
+        }
+      }
+
+      .service-txt {
+        h3 {
+          color: $main-blue;
+        }
+        width: 70%;
+        float: left;
+        div {
+          margin-left: 15px;
+        }
+
+        @media screen and (max-width: 768px) {
+          width: 100%;
+          text-align: center;
+          float: none;
+          div {
+            margin-left: 0;
+          }
+        }
+      }
+
+      .service:nth-child(odd) {
+        .service-img {
+          img {
+            float: right;
+          }
+          @media screen and (max-width: 768px) {
+            img {
+              float: none;
+            }
+          }
+        }
+
+        .service-txt {
+          div {
+            margin-left: 0;
+            margin-right: 15px;
+            @media screen and (max-width: 768px) {
+              margin-right: 0;
+            }
+          }
+        }
+      }
+    }
+
     section.service {
+      margin-bottom: 20px;
       img {
         float: left;
         margin-right: 10px;
         border: 1px solid black;
+        @media screen and (max-width: 480px) {
+          float: none;
+          margin: 0 auto;
+          margin-bottom: 10px;
+        }
       }
 
       .entry-content > h1 {
-        margin-bottom: 20px;
+        margin-bottom: 0px;
+        @media screen and (max-width: 480px) {
+          font-size: 20px;
+        }
+      }
+
+      .inline-nav-services {
+        margin-bottom: 10px;
       }
     }
 
