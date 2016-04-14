@@ -30,8 +30,8 @@ vets:
     img: "/images/team/lopa.jpg"
   -
     name: "Dr. Pranjal Nadkarni"
-    degree: "BVSc&AH"
-    bio: "A very committed young veterinarian, Dr Pranjal treats all the pets under her care with dedication and gentleness. She has a special interest in physiotherapy and assists Dr Vasudeo with musculoskeletal treatment."
+    degree: "BVSc&AH,  CCRT"
+    bio: "Dr. Pranjal is a committed young graduate from Bombay Veterinary College, with a special interest in physiotherapy and rehabilitation. She is motivated and dedicated to improve the level of care she can offer her patients and to give them the benefits of physical therapy for their injuries and aging joints. She has been trained in state-of-the-art rehabilitation techniques by Canine Rehabilitation Institute, Inc. and has been certified by them as a Canine Rehabilitation Therapist – [approved by AAVSB (American Association of Veterinary State Boards) R.A.C.E. (Registry of Approved Continuing Education)]."
     img: "/images/team/pranjal.jpg"
   -
     name: "Dr. Barry Kalsy"
