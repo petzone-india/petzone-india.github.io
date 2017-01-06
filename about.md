@@ -44,11 +44,6 @@ vets:
     bio: "Dr Pradnya Pethe, a surgeon with many years experience, is on hand to perform surgeries as required. Well versed with soft tissue surgery she very capably handles cases from routine spay/neuters to more complicated abdominal surgeries."
     img: "/images/team/pethe.jpeg"
   -
-    name: "Dr. Aarti Chauhan"
-    degree: "BVSc&AH, MVSc (Biotechnology)"
-    bio: "Having received a degree in Animal Biotechnology from the College of Veterinary Sciences, Hisar, Dr Aarti Chauhan has  practical knowledge of Biotechnology and Molecular Genetics. With the skill of diagnosing diseases on molecular level and having the experience of many workshops and conferences on molecular biology and genomics, she has further gained working experience as a Veterinary Officer in Uttarakhand."
-    img: "/images/team/aarti.jpg"
-  -
     name: "Dr. Akshay Pagdhune"
     degree: "BVSc&AH"
     bio: "Currently pursuing a Masters degree in Animal Nutrition from Bombay Veterinary College, Dr. Akshay Pagdhune   is  a young budding Animal Nutritionist  who is interested  of optimizing wellness and performance of pets by understanding how specific vitamins, minerals and every single ingredient of pet food work. Armed with a sound knowledge of medicine and routine surgery, he is available to provide the best possible diagnosis, treatment and overall patient care of  pets during an emergency, and is in training to manage PetZone's night facilities."
@@ -73,9 +68,6 @@ groomers:
     name: "Shikha Meher"
     img: "/images/team/shikha.jpg"
   -
-    name: "Dilshad Bodhanwalla"
-    img: "/images/team/dilshad.jpeg"
-  -
     name: "Gayatri Madhavan"
     img: "/images/team/gayatri.jpg"
 
@@ -85,38 +77,37 @@ support-front-office:
     name: "Vinod Bhopi"
     img: "/images/team/vinod.JPG"
   - 
-    name: "Crysel Garg"
-    img: "/images/team/crysel.jpg"
-  - 
     name: "Parvin Catinwalla"
     img: "/images/team/canteen.JPG"
   - 
-    name: "Rajeev Pawar"
-    img: "/images/team/rajeev.jpeg"
+    name: "Mangal Sawant"
+    img: "/images/team/mangal.jpg"
+  - 
+    name: "Surendra Shinde"
+    img: "/images/team/avatar.png"
 
 support-assistants:
   - 
     name: "Sachin Tikone"
     img: "/images/team/sachin.jpg"
   - 
-    name: "Sumeet Gaekwad"
-    img: "/images/team/avatar.png"
-  - 
-    name: "Susheel Kumar"
-    img: "/images/team/avatar.png"
-  - 
-    name: "Manas Das"
-    img: "/images/team/manas.jpg"
-  - 
-    name: "Ashok Naik"
-    img: "/images/team/ashok.jpeg"
-  - name: "Ram Kumar"
+    name: "Ram Kumar"
     img: "/images/team/ramkumar.jpg"
   - 
     name: "Raghunath Jagle"
     img: "/images/team/raghunath.jpg"
   - 
     name: "Tukaram Tikhone"
-    img: "/images/team/tukaram.jpg"    
+    img: "/images/team/tukaram.jpg"
+  - 
+    name: "Manas Das"
+    img: "/images/team/manas.jpg"
+  -
+    name: "Pradeep Das"
+    img: "/images/team/pradeep.jpg"
+  -
+    name: "Ashok Naik"
+    img: "/images/team/ashok.jpeg"
+
 
 ---

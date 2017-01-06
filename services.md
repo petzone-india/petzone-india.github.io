@@ -53,7 +53,7 @@ services:
     img: "/images/services/ecg.jpg"
     learn-more-slug: "/services-cardiac"
   - 
-    service: "Physiotherapy & Hydrotherapy"
+    service: "Physiotherapy, Hydrotherapy and Laser Therapy"
     text: "Physiotherapy can help pets with musculoskeletal, neurological and age related problems. It can also help pre and post-operative patients to improve their recovery. At PetZone Mahalaxmi, our resident veterinarian is also a qualified physiotherapist who provides consultations across all other clinics. PetZone Mahalaxmi is equipped with a swimming pool for your pets which can be used for treatments or recreational purposes."
     img: "/images/services/hydrotherapy.jpg"
     learn-more-slug: "/services-physio"
