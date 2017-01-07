@@ -84,7 +84,7 @@ support-front-office:
     img: "/images/team/mangal.jpg"
   - 
     name: "Surendra Shinde"
-    img: "/images/team/avatar.png"
+    img: "/images/team/surendra.jpg"
 
 support-assistants:
   - 
