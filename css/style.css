@@ -102,6 +102,12 @@ body {
           padding-left: 0; } }
   body .imagecollage .col-md-2 {
     padding: 0; }
+  body .imagecollage .col-md-3, body .imagecollage .col-xs-3 {
+    padding: 0; }
+  body .fb-page {
+    margin-bottom: 20px; }
+  body .fb-col {
+    text-align: center; }
   body .carousel {
     display: flex;
     align-items: center;
