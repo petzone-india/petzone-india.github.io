@@ -74,9 +74,6 @@ groomers:
 
 support-front-office:
   - 
-    name: "Vinod Bhopi"
-    img: "/images/team/vinod.JPG"
-  - 
     name: "Parvin Catinwalla"
     img: "/images/team/canteen.JPG"
   - 
@@ -105,9 +102,6 @@ support-assistants:
   -
     name: "Pradeep Das"
     img: "/images/team/pradeep.jpg"
-  -
-    name: "Ashok Naik"
-    img: "/images/team/ashok.jpeg"
 
 
 ---
