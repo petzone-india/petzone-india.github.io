@@ -24,11 +24,6 @@ vets:
     bio: "Dr Akshata is PetZone's Internal Medicine and Cardiology specialist. Trained both at home and abroad, she is experienced with Ultrasound examination and 2d Echo and is available to all Petzones for cardiac and medical consults. She is especially interested in all aspects of the diagnosis, preventive care and maintenance for cardiac and renal conditions."
     img: "/images/team/akshata.jpg"
   -
-    name: "Dr. Lopa Kher"
-    degree: "BVSc&AH, MVSc (Parasitology)"
-    bio: "Dr Lopa worked out of PetZone Mahalaxmi initially and now works at PetZone Churchgate. With tick and vector borne diseases becoming so prevalent and also life threatening in pets, Dr Lopa's expertise is often sought out to treat these conditions. She has a special interest in dermatology, and has an almost intuitive ability to diagnose parasitic skin disease."
-    img: "/images/team/lopa.jpg"
-  -
     name: "Dr. Pranjal Nadkarni"
     degree: "BVSc&AH,  CCRT"
     bio: "Dr. Pranjal is a committed young graduate from Bombay Veterinary College, with a special interest in physiotherapy and rehabilitation. She is motivated and dedicated to improve the level of care she can offer her patients and to give them the benefits of physical therapy for their injuries and aging joints. She has been trained in state-of-the-art rehabilitation techniques by Canine Rehabilitation Institute, Inc. and has been certified by them as a Canine Rehabilitation Therapist – [approved by AAVSB (American Association of Veterinary State Boards) R.A.C.E. (Registry of Approved Continuing Education)]."
