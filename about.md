@@ -1,12 +1,12 @@
 ---
-title: Petzone | About
+title: PetZone | About
 layout: about
 
 vets:
   -
     name: "Dr. Leena Dalal"
     degree: "BVSc&AH, MVSc (Surgery)"
-    bio: "Dr Leena has extensive experience in Veterinary medicine and Surgery over 30 years. She has trained in surgery, imaging and various aspects of General medicine both in India and internationally, and continues to regularly update her knowledge and training.She travels between all the Petzone clinics, reviews all the non-routine cases and is always available to give advice."
+    bio: "Dr Leena has extensive experience in Veterinary medicine and Surgery over 30 years. She has trained in surgery, imaging and various aspects of General medicine both in India and internationally, and continues to regularly update her knowledge and training.She travels between all the PetZone clinics, reviews all the non-routine cases and is always available to give advice."
     img: "/images/team/leena.jpg"
   -
     name: "Dr. Deep Vasudeo"
@@ -21,7 +21,7 @@ vets:
   -
     name: "Dr. Akshata Ubale"
     degree: "BVSc&AH, MVSc (Medicine)"
-    bio: "Dr Akshata is PetZone's Internal Medicine and Cardiology specialist. Trained both at home and abroad, she is experienced with Ultrasound examination and 2d Echo and is available to all Petzones for cardiac and medical consults. She is especially interested in all aspects of the diagnosis, preventive care and maintenance for cardiac and renal conditions."
+    bio: "Dr Akshata is PetZone's Internal Medicine and Cardiology specialist. Trained both at home and abroad, she is experienced with Ultrasound examination and 2d Echo and is available to all PetZones for cardiac and medical consults. She is especially interested in all aspects of the diagnosis, preventive care and maintenance for cardiac and renal conditions."
     img: "/images/team/akshata.jpg"
   -
     name: "Dr. Pranjal Nadkarni"
@@ -46,12 +46,12 @@ vets:
   -
     name: "Dr. Eunice Thomas"
     degree: "BVSc&AH,  MVSc (Surgery)"
-    bio: ""
+    bio: "Dr. Eunice Thomas is a surgeon who is comfortable with both conventional as well as laparoscopic surgery. With a Masters degree in Surgery, Eunice very capably handles PetZone's surgeries and post surgical care."
     img: "/images/team/eunice.jpg"
   -
     name: "Dr. Danish Dubash"
     degree: "BVSc&AH"
-    bio: ""
+    bio: "Dr. Danish Dubash is a young veterinarian who aims to excel in internal medicine. He is on hand to assist in both routine as well as emergency cases."
     img: "/images/team/avatar.png"
 
 

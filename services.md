@@ -1,5 +1,5 @@
 ---
-title: Petzone | Services
+title: PetZone | Services
 layout: services
 services: 
   - 

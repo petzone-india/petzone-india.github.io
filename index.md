@@ -1,5 +1,5 @@
 ---
-title: Petzone | Home
+title: PetZone | Home
 layout: home
 url: '/'
 ---

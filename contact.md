@@ -1,4 +1,4 @@
 ---
-title: Petzone | Contact Us
+title: PetZone | Contact Us
 layout: contact
 ---
