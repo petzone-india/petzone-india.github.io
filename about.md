@@ -107,7 +107,7 @@ support-assistants:
     name: "Pradip Pal"
     img: "/images/team/pradeep.jpg"
   - 
-    name: "Suraj Sakpal"
+    name: "Sakpal"
     img: "/images/team/avatar.png"
   - 
     name: "Umesh"
