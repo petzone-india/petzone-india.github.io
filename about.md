@@ -40,12 +40,12 @@ vets:
     img: "/images/team/pethe.jpeg"
   -
     name: "Dr. Padam Sharma"
-    degree: "BVSc&AH, MVSc (microbiology)"
+    degree: "BVSc&AH, MVSc (Microbiology)"
     bio: "Dr. Padam Sharma who is originally from the North East, is a young vet who doubles up  as a Practice Manager for the Mumbai PetZone Clinics. He has a Masters degree in Veterinary Microbiology  and is well equipped to handle laboratory work in addition to clinical practice. By understanding microbes, he aims to solve a range of problems affecting pet’s health and the environment. He conducts examinations on specimens collected from animals for bacterial, viral, protozoan and fungal infections. This may include studying how diseases spread and using research findings to direct appropriate treatment protocols."
     img: "/images/team/padam.jpg"
   -
     name: "Dr. Eunice Thomas"
-    degree: "BVSc&AH"
+    degree: "BVSc&AH,  MVSc (Surgery)"
     bio: ""
     img: "/images/team/eunice.jpg"
   -
@@ -83,6 +83,9 @@ support-front-office:
   - 
     name: "Surendra Shinde"
     img: "/images/team/surendra.jpg"
+  - 
+    name: "Suraj"
+    img: "/images/team/avatar.png"
 
 support-assistants:
   - 
