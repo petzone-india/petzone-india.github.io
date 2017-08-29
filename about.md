@@ -39,10 +39,15 @@ vets:
     bio: "Dr Pradnya Pethe, a surgeon with many years experience, is on hand to perform surgeries as required. Well versed with soft tissue surgery she very capably handles cases from routine spay/neuters to more complicated abdominal surgeries."
     img: "/images/team/pethe.jpeg"
   -
-    name: "Dr. Akshay Pagdhune"
+    name: "Dr. Danish Dubash"
     degree: "BVSc&AH"
-    bio: "Currently pursuing a Masters degree in Animal Nutrition from Bombay Veterinary College, Dr. Akshay Pagdhune   is  a young budding Animal Nutritionist  who is interested  of optimizing wellness and performance of pets by understanding how specific vitamins, minerals and every single ingredient of pet food work. Armed with a sound knowledge of medicine and routine surgery, he is available to provide the best possible diagnosis, treatment and overall patient care of  pets during an emergency, and is in training to manage PetZone's night facilities."
-    img: "/images/team/akshay.jpg"
+    bio: ""
+    img: "/images/team/avatar.png"
+  -
+    name: "Dr. Eunice Thomas"
+    degree: "BVSc&AH"
+    bio: ""
+    img: "/images/team/eunice.jpg"
   -
     name: "Dr. Padam Sharma"
     degree: "BVSc&AH, MVSc (microbiology)"
@@ -60,8 +65,8 @@ groomers:
     name: "Behroze Mistry"
     img: "/images/team/behroze.JPG"
   -
-    name: "Shikha Meher"
-    img: "/images/team/shikha.jpg"
+    name: "Dr. Gulshan Surty"
+    img: "/images/team/avatar.png"
   -
     name: "Gayatri Madhavan"
     img: "/images/team/gayatri.jpg"
@@ -69,7 +74,7 @@ groomers:
 
 support-front-office:
   - 
-    name: "Parvin Catinwalla"
+    name: "Parvin Cateenwalla"
     img: "/images/team/canteen.JPG"
   - 
     name: "Mangal Sawant"
@@ -95,8 +100,14 @@ support-assistants:
     name: "Manas Das"
     img: "/images/team/manas.jpg"
   -
-    name: "Pradeep Das"
+    name: "Pradip Pal"
     img: "/images/team/pradeep.jpg"
+  - 
+    name: "Suraj Sakpal"
+    img: "/images/team/avatar.png"
+  - 
+    name: "Umesh"
+    img: "/images/team/avatar.png"
 
 
 ---
