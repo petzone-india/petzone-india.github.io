@@ -39,20 +39,21 @@ vets:
     bio: "Dr Pradnya Pethe, a surgeon with many years experience, is on hand to perform surgeries as required. Well versed with soft tissue surgery she very capably handles cases from routine spay/neuters to more complicated abdominal surgeries."
     img: "/images/team/pethe.jpeg"
   -
-    name: "Dr. Danish Dubash"
-    degree: "BVSc&AH"
-    bio: ""
-    img: "/images/team/avatar.png"
+    name: "Dr. Padam Sharma"
+    degree: "BVSc&AH, MVSc (microbiology)"
+    bio: "Dr. Padam Sharma who is originally from the North East, is a young vet who doubles up  as a Practice Manager for the Mumbai PetZone Clinics. He has a Masters degree in Veterinary Microbiology  and is well equipped to handle laboratory work in addition to clinical practice. By understanding microbes, he aims to solve a range of problems affecting pet’s health and the environment. He conducts examinations on specimens collected from animals for bacterial, viral, protozoan and fungal infections. This may include studying how diseases spread and using research findings to direct appropriate treatment protocols."
+    img: "/images/team/padam.jpg"
   -
     name: "Dr. Eunice Thomas"
     degree: "BVSc&AH"
     bio: ""
     img: "/images/team/eunice.jpg"
   -
-    name: "Dr. Padam Sharma"
-    degree: "BVSc&AH, MVSc (microbiology)"
-    bio: "Dr. Padam Sharma who is originally from the North East, is a young vet who doubles up  as a Practice Manager for the Mumbai PetZone Clinics. He has a Masters degree in Veterinary Microbiology  and is well equipped to handle laboratory work in addition to clinical practice. By understanding microbes, he aims to solve a range of problems affecting pet’s health and the environment. He conducts examinations on specimens collected from animals for bacterial, viral, protozoan and fungal infections. This may include studying how diseases spread and using research findings to direct appropriate treatment protocols."
-    img: "/images/team/padam.jpg"
+    name: "Dr. Danish Dubash"
+    degree: "BVSc&AH"
+    bio: ""
+    img: "/images/team/avatar.png"
+
 
 therapists:
   -
