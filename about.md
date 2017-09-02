@@ -52,8 +52,12 @@ vets:
     name: "Dr. Danish Dubash"
     degree: "BVSc&AH"
     bio: "Dr. Danish Dubash is a young veterinarian who aims to excel in internal medicine. He is on hand to assist in both routine as well as emergency cases."
+    img: "/images/team/danish.jpg"
+  -
+    name: "Dr. Gautami Naik"
+    degree: "BVSc&AH"
+    bio: "Dr. Gautami Naik is a graduate of the Rajiv Gandhi College of Veterinary and Animal Science in Puducherry. She ably handles all aspects of general veterinary medicine at PetZone Goa."
     img: "/images/team/avatar.png"
-
 
 therapists:
   -
@@ -83,6 +87,9 @@ support-front-office:
   - 
     name: "Surendra Shinde"
     img: "/images/team/surendra.jpg"
+  - 
+    name: "Mayuri Fatkare"
+    img: "/images/team/avatar.png"
   - 
     name: "Suraj"
     img: "/images/team/avatar.png"
