@@ -90,9 +90,6 @@ support-assistants:
   -
     name: "Pradip Pal"
     img: "/images/team/pradeep.jpg"
-  - 
-    name: "Sakpal"
-    img: "/images/team/avatar.png"
   -
     name: "Shama Sheikh"
     img: "/images/team/avatar.png"
