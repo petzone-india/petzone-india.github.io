@@ -52,7 +52,7 @@ vets:
     name: "Dr. Gautami Naik"
     degree: "BVSc&AH"
     bio: "Dr. Gautami Naik is a graduate of the Rajiv Gandhi College of Veterinary and Animal Science in Puducherry. She ably handles all aspects of general veterinary medicine at PetZone Goa."
-    img: "/images/team/avatar.png"
+    img: "/images/team/gautami.jpg"
 
 therapists:
   -
@@ -77,7 +77,7 @@ support-front-office:
     name: "Surendra Shinde"
     img: "/images/team/surendra.jpg"
   - 
-    name: "Suraj"
+    name: "Suraj Sukhadare"
     img: "/images/team/avatar.png"
 
 support-assistants:
@@ -92,6 +92,15 @@ support-assistants:
     img: "/images/team/pradeep.jpg"
   - 
     name: "Sakpal"
+    img: "/images/team/avatar.png"
+  -
+    name: "Shama Sheikh"
+    img: "/images/team/avatar.png"
+  -
+    name: "Ram Ashish Mishra"
+    img: "/images/team/RamMishra.JPG"
+  -
+    name: "Harichandra Sakpal"
     img: "/images/team/avatar.png"
 
 
