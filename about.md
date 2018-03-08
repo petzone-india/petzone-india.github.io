@@ -39,11 +39,6 @@ vets:
     bio: "Dr Pradnya Pethe, a surgeon with many years experience, is on hand to perform surgeries as required. Well versed with soft tissue surgery she very capably handles cases from routine spay/neuters to more complicated abdominal surgeries."
     img: "/images/team/pethe.jpeg"
   -
-    name: "Dr. Padam Sharma"
-    degree: "BVSc&AH, MVSc (Microbiology)"
-    bio: "Dr. Padam Sharma who is originally from the North East, is a young vet who doubles up  as a Practice Manager for the Mumbai PetZone Clinics. He has a Masters degree in Veterinary Microbiology  and is well equipped to handle laboratory work in addition to clinical practice. By understanding microbes, he aims to solve a range of problems affecting pet’s health and the environment. He conducts examinations on specimens collected from animals for bacterial, viral, protozoan and fungal infections. This may include studying how diseases spread and using research findings to direct appropriate treatment protocols."
-    img: "/images/team/padam.jpg"
-  -
     name: "Dr. Eunice Thomas"
     degree: "BVSc&AH,  MVSc (Surgery)"
     bio: "Dr. Eunice Thomas is a surgeon who is comfortable with both conventional as well as laparoscopic surgery. With a Masters degree in Surgery, Eunice very capably handles PetZone's surgeries and post surgical care."
@@ -69,12 +64,6 @@ groomers:
   -
     name: "Behroze Mistry"
     img: "/images/team/behroze.JPG"
-  -
-    name: "Dr. Gulshan Surty"
-    img: "/images/team/avatar.png"
-  -
-    name: "Gayatri Madhavan"
-    img: "/images/team/gayatri.jpg"
 
 
 support-front-office:
@@ -88,25 +77,13 @@ support-front-office:
     name: "Surendra Shinde"
     img: "/images/team/surendra.jpg"
   - 
-    name: "Mayuri Fatkare"
-    img: "/images/team/avatar.png"
-  - 
     name: "Suraj"
     img: "/images/team/avatar.png"
 
 support-assistants:
   - 
-    name: "Sachin Tikone"
-    img: "/images/team/sachin.jpg"
-  - 
-    name: "Ram Kumar"
-    img: "/images/team/ramkumar.jpg"
-  - 
     name: "Raghunath Jagle"
     img: "/images/team/raghunath.jpg"
-  - 
-    name: "Tukaram Tikhone"
-    img: "/images/team/tukaram.jpg"
   - 
     name: "Manas Das"
     img: "/images/team/manas.jpg"
@@ -115,9 +92,6 @@ support-assistants:
     img: "/images/team/pradeep.jpg"
   - 
     name: "Sakpal"
-    img: "/images/team/avatar.png"
-  - 
-    name: "Umesh"
     img: "/images/team/avatar.png"
 
 
