@@ -23,6 +23,11 @@ services:
     img: "/images/services/surgery.jpg"
     learn-more-slug: "/services-surgery"
   - 
+    service: "Eye examination, Treatment, and Surgery"
+    text: "Eye conditions are common an very debilitating for pets, and substantially influence their quality of life. We offer specialist consults and treatment advice, Surgeries like cataract removal, luxated lens removal, eyelid defect correction, corneal surgery: corneal grafts, keratectomy  cataract removal, luxated lens removal, cherry eye correction amongst other procedures. We test for glaucoma  by measuring eye pressure and for vision with electroretinography."
+    img: "/images/services/eyes.png"
+    learn-more-slug: ""
+  - 
     service: "Ultrasound"
     text: "PetZone Churchgate is fully licensed to carry out in house ultrasounds for your pets. Soon PetZone Goa will be too. Ultrasounds can help identify diseases of the liver, heart, kidneys amongst other organs. They can also help determine the position of foreign bodies and can be used for pregnancy diagnosis."
     img: "/images/services/Ultrasound.jpg"
@@ -57,6 +62,11 @@ services:
     text: "Physiotherapy can help pets with musculoskeletal, neurological and age related problems. It can also help pre and post-operative patients to improve their recovery. At PetZone Mahalaxmi, our resident veterinarian is also a qualified physiotherapist who provides consultations across all other clinics. PetZone Mahalaxmi is equipped with a swimming pool for your pets which can be used for treatments or recreational purposes."
     img: "/images/services/hydrotherapy.jpg"
     learn-more-slug: "/services-physio"
+  - 
+    service: "PetZone's Lameness Clinic"
+    text: "PetZone specializes in assessing and treating lameness and mobility issues in dogs. Starting with Gait analysis and a complete orthopedic and Neurological exam we assess the cause of lameness and pain, its effect on the pet and the pet's family and caregivers, and are able to offer solutions from orthopedic and joint surgery to all modalities of physiotherapy including hydrotherapy, therapeutic laser and massage. We also assist with orthotics and mobility devices  A high rate of success has led to many happy pets and pet parents!"
+    img: "/images/services/lameness.png"
+    learn-more-slug: ""
   - 
     service: "Medicine Dispensing Services"
     text: "We provide most of the medicines we prescribe so that pet parents have easy and convenient access to their pet’s medication. You can also request email reminders about when to give your pet’s medication and we routinely provide email reminders for vaccinations and worming medications."
