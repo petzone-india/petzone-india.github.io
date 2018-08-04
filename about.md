@@ -53,6 +53,16 @@ vets:
     degree: "BVSc&AH"
     bio: "Dr. Gautami Naik is a graduate of the Rajiv Gandhi College of Veterinary and Animal Science in Puducherry. She ably handles all aspects of general veterinary medicine at PetZone Goa."
     img: "/images/team/guatami.jpg"
+  -
+    name: "Dr. Sera Silviera"
+    degree: "BVSc&AH, MVSc (Surgery)"
+    bio: "Dr. Sera Silviera has a Masters degree in surgery from Bombay Veterinary College and competently handles surgical cases at PetZone Goa."
+    img: "/images/team/sera.jpg"
+  -
+    name: "Dr. Kasturi Bhadsavle"
+    degree: "BVSc&AH, MVSc (Surgery)"
+    bio: "Dr. Kasturi has trained in veterinary ophthalmology in Israel, USA and Australia, and practised as a veterinary ophthalmologist in Australia for several years before deciding to relocate to India.  She  is a visiting ophthalmologist who conducts PetZone's  specialised ophthalmic examinations and surgeries and handles ophthalmic referrals to PetZone.  Cataracts, Lens replacements, Corneal surgeries, Electroretinographs amongst other ophthalmic procedures are very capably handled by her."
+    img: "/images/team/kasturi.png"
 
 therapists:
   -
@@ -64,41 +74,58 @@ groomers:
   -
     name: "Behroze Mistry"
     img: "/images/team/behroze.JPG"
+  -
+    name: "Gayatri Madhavan"
+    img: "/images/team/gayatri.jpg"
+  -
+    name: "Tina Wisby"
+    img: "/images/team/tina.png"
 
 
 support-front-office:
   - 
-    name: "Parvin Cateenwalla"
+    name: "Parvin"
     img: "/images/team/canteen.JPG"
   - 
-    name: "Mangal Sawant"
+    name: "Mangal"
     img: "/images/team/mangal.jpg"
   - 
-    name: "Surendra Shinde"
+    name: "Surendra"
     img: "/images/team/surendra.jpg"
   - 
-    name: "Suraj Sukhadare"
-    img: "/images/team/avatar.png"
+    name: "Suraj"
+    img: "/images/team/suraj.png"
 
 support-assistants:
   - 
-    name: "Raghunath Jagle"
+    name: "Raghunath"
     img: "/images/team/raghunath.jpg"
-  - 
-    name: "Manas Das"
-    img: "/images/team/manas.jpg"
   -
-    name: "Pradip Pal"
+    name: "Pradip"
     img: "/images/team/pradeep.jpg"
   -
-    name: "Shama Sheikh"
+    name: "Shama"
+    img: "/images/team/shama.png"
+  -
+    name: "Harichandra"
     img: "/images/team/avatar.png"
   -
-    name: "Ram Ashish Mishra"
-    img: "/images/team/RamMishra.JPG"
+    name: "Sandeep"
+    img: "/images/team/sandeep.png"
   -
-    name: "Harichandra Sakpal"
-    img: "/images/team/avatar.png"
-
+    name: "Krishna"
+    img: "/images/team/krishna.png"
+  -
+    name: "Sakpal"
+    img: "/images/team/sakpal.png"
+  -
+    name: "Uttam"
+    img: "/images/team/uttam.png"
+  -
+    name: "Jivandhar"
+    img: "/images/team/jivandhar.png"
+  -
+    name: "Samadhan"
+    img: "/images/team/samadhan.png"
 
 ---
