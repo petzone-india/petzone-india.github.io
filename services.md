@@ -49,7 +49,7 @@ services:
     learn-more-slug: "/services-vaccination"
   - 
     service: "Pathology"
-    text: "Pets can sometimes have a decreased appetite, show listlessness or lethargy and have irregular stools. In such cases, blood, urine or stool test, can determine the cause of an illness. PetZones everywhere have teamed up with Pathology Laboratories to give pet owners same day results. We also do allergy testing, histopathology, skin scrapings, amongst others. With laboratory reports reaching us with 24 hours, we are able to treat pets quickly and efficiently on a daily basis. Pet parents are also be given hard copies and sent emails of the reports as we receive them."
+    text: "Pets can sometimes have a decreased appetite, show listlessness or lethargy and have irregular stools. In such cases, blood, urine or stool test, can determine the cause of an illness. PetZones have in house laboratories that give us most blood test reports while the patient is in the clinic, and we have teamed up with Specialised Pathology Laboratories to do allergy testing, histopathology, skin scrapings, amongst others. With in house facilities, we are able to treat pets quickly and efficiently on a daily basis."
     img: "/images/services/pathology.jpg"
     learn-more-slug: "/services-pathology"
   - 
@@ -64,7 +64,7 @@ services:
     learn-more-slug: "/services-physio"
   - 
     service: "PetZone's Lameness Clinic"
-    text: "PetZone specializes in assessing and treating lameness and mobility issues in dogs. Starting with Gait analysis and a complete orthopedic and Neurological exam we assess the cause of lameness and pain, its effect on the pet and the pet's family and caregivers, and are able to offer solutions from orthopedic and joint surgery to all modalities of physiotherapy including hydrotherapy, therapeutic laser and massage. We also assist with orthotics and mobility devices  A high rate of success has led to many happy pets and pet parents!"
+    text: "PetZone specializes in assessing and treating lameness and mobility issues in dogs. Starting with gait analysis and a complete orthopedic and neurological exam we assess the cause of lameness and pain, its effect on the pet and the pet's family and caregivers, and are able to offer solutions from orthopedic and joint surgery to all modalities of physiotherapy including hydrotherapy, therapeutic laser and massage. We also assist with orthotics and mobility devices.  A high rate of success has led to many happy pets and pet parents!"
     img: "/images/services/lameness.png"
     learn-more-slug: ""
   - 
