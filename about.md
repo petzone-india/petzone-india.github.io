@@ -14,11 +14,6 @@ vets:
     bio: "Dr Deep, in addition to an all round veterinary education at Bombay Veterinary College, has been trained in hydrotherapy and physiotherapy at Greyfriars in the UK. He excels at treating musculoskeletal conditions and has assisted many a dog with full recovery from lameness and orthopedic surgery. He keeps his skills and knowledge of general veterinary medicine sharp with continuing education courses and workshops and is engaged in the endless pursuit of finding new and creative means to help lame dogs to walk."
     img: "/images/team/deep.jpg"
   -
-    name: "Dr. John Dominic"
-    degree: "BVSc&AH"
-    bio: "Dr John hails from Ponda in Goa, and after several years at PetZone Churchgate, now looks after pets at PetZone Goa. He is skilled with Anesthesia and all aspects of general veterinary medical and surgical care, and has a special affinity for feline treatment and care."
-    img: "/images/team/john.jpg"
-  -
     name: "Dr. Akshata Ubale"
     degree: "BVSc&AH, MVSc (Medicine)"
     bio: "Dr Akshata is PetZone's Internal Medicine and Cardiology specialist. Trained both at home and abroad, she is experienced with Ultrasound examination and 2d Echo and is available to all PetZones for cardiac and medical consults. She is especially interested in all aspects of the diagnosis, preventive care and maintenance for cardiac and renal conditions."
@@ -48,11 +43,6 @@ vets:
     degree: "BVSc&AH"
     bio: "Dr. Danish Dubash is a young veterinarian who aims to excel in internal medicine. He is on hand to assist in both routine as well as emergency cases."
     img: "/images/team/danish.jpg"
-  -
-    name: "Dr. Gautami Naik"
-    degree: "BVSc&AH"
-    bio: "Dr. Gautami Naik is a graduate of the Rajiv Gandhi College of Veterinary and Animal Science in Puducherry. She ably handles all aspects of general veterinary medicine at PetZone Goa."
-    img: "/images/team/guatami.jpg"
   -
     name: "Dr. Sera Silviera"
     degree: "BVSc&AH, MVSc (Surgery)"
