@@ -142,16 +142,24 @@ body {
     padding: 5px;
     padding-bottom: 10px;
     font-size: 12px; }
-    body footer a.footerfacebook {
+    body footer a.footerfacebook, body footer a.footerinstagram {
       margin-top: 10px;
       text-align: center;
       display: block;
       color: black; }
-      body footer a.footerfacebook .fa {
+      body footer a.footerfacebook .fa-facebook, body footer a.footerinstagram .fa-facebook {
         background: #2c5ea9;
         padding: 5px;
         margin-right: 5px;
         color: white; }
+      body footer a.footerfacebook .fa-instagram, body footer a.footerinstagram .fa-instagram {
+        color: transparent;
+        background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+        background: -webkit-radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        margin-right: 5px;
+        font-size: large; }
     body footer .copyright {
       text-align: right;
       margin-right: 10px; }
